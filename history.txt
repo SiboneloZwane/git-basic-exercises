@@ -1,0 +1,176 @@
+    1  ls
+    2  pwd
+    3  cd Bootcamp
+    4  mkdir level-1
+    5  cd level-1
+    6  git init
+    7  git config --global user.name "Sibonelo Zwane"
+    8  git config --global user.email "sibonelo.zwane@outlook.com"
+    9  git remote add origin https://github.com/Umuzi-org/Sibonelo-Zwane-219-level-1-programming-katas-javascript.git
+   10  git remote -v 
+   11  git remote set-url https://SiboneloZwane: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
+   12  git remote set-url https://SiboneloZwane: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@github.com/Umuzi-org/Sibonelo-Zwane-219-level-1-programming-katas-javascript.git
+   13  git fetch origin
+   14  ls
+   15  git log
+   16  git branch
+   17  git pull orign
+   18  git clone https://github.com/Umuzi-org/Sibonelo-Zwane-219-level-1-programming-katas-javascript.git~
+   19  git clone https://github.com/Umuzi-org/Sibonelo-Zwane-219-level-1-programming-katas-javascript.git
+   20  ls
+   21  cd Sibonelo-Zwane-219-level-1-programming-katas-javascript/
+   22  ls
+   23  ls
+   24  git add
+   25  git add.
+   26  git add .
+   27   git commit -m "task 1 - complete - v1"
+   28  git push 
+   29  git push origin
+   30  git add .
+   31  git commit -m "task 1"
+   32  git push --set-upstream origin new_branch
+   33  ls
+   34  pwd
+   35  cd .
+   36  pwd
+   37  mkdir git-basic-exercises
+   38  cd . .
+   39  git config --list
+   40  git config user.name "SiboneloZwane"
+   41  git config --global user.name "SiboneloZwane"
+   42  git config --list
+   43  pwd
+   44  mkdir umuzi
+   45  cd umuzi
+   46  pwd
+   47  git clone https://github.com/Umuzi-org/Sibonelo-Zwane-219-level-1-programming-katas-javascript.git
+   48  git checkout main
+   49  ls
+   50  cd Sibonelo-Zwane-219-level-1-programming-katas-javascript/
+   51  git checkout main
+   52  git pull
+   53  git checkout -b task/1
+   54  git add task1.js
+   55  vi task1.js
+   56  git add .
+   57  git coommit -m "task 1 - version 1"
+   58  git commit -m "task 1"
+   59  git push
+   60  git push --set-upstream origin task/1
+   61  git checkout main
+   62  git pull
+   63  git checkout -b task/2
+   64  vi task2.js
+   65  git commit -m "task 2"
+   66  git add .
+   67  git commit -m "task 2"
+   68  git push --set-upstream origin task/2
+   69  git checkout main
+   70  git pull
+   71  git checkout -b task/3
+   72  vi task3.js
+   73  git add .
+   74  git commit -m "task 3"
+   75  git push --set-upstream origin task/3
+   76  git checkout main
+   77  git pull
+   78  git checkout -b task/4
+   79  vi task4.js
+   80  git add .
+   81  git commit -m "task 4"
+   82  git push --set-upstream origin task/4
+   83  git checkout main
+   84  git pull
+   85  git checkout -b task/5
+   86  vi task5.js
+   87  git add .
+   88  git commit -m "task 5"
+   89  git push --set-upstream origin task/5
+   90  git checkout main
+   91  git pull 
+   92  git checkout -b task/6
+   93  ls
+   94  cd umuzi
+   95  ls
+   96  cd Sibonelo-Zwane-219-level-1-programming-katas-javascript/
+   97  ls
+   98  vi task6.js
+   99  git add .
+  100  git commit -m "task 6 - v1"
+  101  git push --set-upstream origin task/6
+  102  git checkout main 
+  103  git pull
+  104  git checkout -b task/7
+  105  vi task7.js
+  106  git add .
+  107  git commit -m "task 7"
+  108  git push --set-upstream origin task/7
+  109  git checkout main
+  110  ls
+  111  git checkout main
+  112  git pull
+  113  git checkout -b task/2
+  114  git -b task/2
+  115  git checkout task/2
+  116  ls
+  117  vi task2.js
+  118  git checkout task/5
+  119  vi task5.js
+  120  git add .
+  121  git commit -m "task 5 - v2"
+  122  git push --set-upstream origin task/5
+  123  ls
+  124  cd umuzi
+  125  cd Sibonelo-Zwane-219-level-1-programming-katas-javascript/
+  126  cd .
+  127  pwd
+  128  cd ..
+  129  pwd
+  130  clear
+  131  mkdir git-basic-exercises
+  132  cd git-basic-exercises/
+  133  ls -a
+  134  git init
+  135  ls -a
+  136  touch README.md
+  137  ls -a
+  138  git status
+  139  git log
+  140  git add
+  141  git status
+  142  git commit -m "initial commit"
+  143  git add .
+  144  git commit -m "initial commit"
+  145  git log
+  146  q
+  147  nano README.md
+  148  ls
+  149  cat README.md 
+  150  git status
+  151  git add README.md 
+  152  git commit -m "second commit"
+  153  vi README.md 
+  154  git commit -a "third commit"
+  155  git commit -m "third commit"
+  156  git add README.md 
+  157  git commit -m "third commit"
+  158  git log
+  159  git checkout 7cc27aeda6c02dfe29e3e4d4153c2710786bbc2b
+  160  git switch -
+  161  git branch
+  162  git checkout milkshake-flavours
+  163  git checkout -b milkshake-flavours
+  164  git branch
+  165  nano milkshakes.md
+  166  git status
+  167  git add milkshakes.md 
+  168  git commit -m "added initial flavours"
+  169  git log
+  170  git checkout main
+  171  git checkout master
+  172  git log
+  173  git checkout -b history
+  174  git log
+  175  git branch
+  176  history > history.txt
